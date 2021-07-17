@@ -19,3 +19,36 @@ i graduated from "Secondary school No. 84"(Minsk) in 2019
 After passing a couple of tests in the Internet, i got B1-B2 level of English.
 
 In my opinion, i can read and write well in English, but i have almost no experience in spoken English
+
+### Coding Example:
+```
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Artsemi Khrystaforau</title>
+</head>
+<body>
+<header>
+<h1>Artsemi Khrystaforau</h1>
+<nav>
+    <div class="contacts">
+        <ul>
+            <li>Phone Number: +375(29)6820346 Telegram, Viber</li>
+            <li>E-mail: Xisera@mail.ru</li>
+        </ul>
+    </div>
+</nav>
+</header>
+<footer><h3>https://github.com/Xiseraa 
+    <br><br>
+    2021 </h3>
+    <br><br>
+    <img src="https://rs.school/images/rs_school_js.svg" alt="RS School" width="150">
+    <br>
+    <a href="https://rs.school/js/">RS School</a>
+    </footer>
+</body>
+</html>
+```
