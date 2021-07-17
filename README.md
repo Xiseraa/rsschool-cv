@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Xiseraa.github.io/rsschool-cv/cv
