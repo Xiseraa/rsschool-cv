@@ -1,10 +1,25 @@
 .feature-text {
+    font-family: Arial, Helvetica, sans-serif;
     padding-left: 20px;
     font-size: 18px;
     }
 .feature-title {
+    font-family: 'Times New Roman', Times, serif;
     font-size: 140%;
 }
 .contacts {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.GitLink {
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   font-weight: bold;
+}
+.Titlename {
+    font-family: 'Times New Roman', Times, serif;
+}
+.Skills {
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
